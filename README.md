@@ -7,3 +7,5 @@ I incorporated this change
 Testing if its working or not
 
 Lets check the git skills
+
+Trying out the git pull command
